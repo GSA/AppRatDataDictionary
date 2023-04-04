@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Current Maintainer: GSA’s Data Center and Cloud Optimization Initiative (DCCOI) PMO at <dccoi@gsa.gov>
+Current Maintainer: GSA’s IT Modernization division at <dccoi@gsa.gov>
 
 The Application Rationalization Data Dictionary is a supplement to the [Application Rationalization Playbook](https://www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf) to help agencies strategically and systematically identify business applications and determine which should be kept, replaced, retired, or consolidated.<sup>[1](#footnote1)</sup> This resource establishes standards for data exchanges designed to manage application rationalization. Standards for data exchanges in turn allow users and agencies to explore and collaborate on their application rationalization data.
 
